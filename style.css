@@ -2,9 +2,9 @@
 :root {
     --board-bg: #f0f0f0;
     --cell-border: #ccc;
-    --player1-color: #4CAF50; /* Green */
-    --player1-light: #a5d6a7;
-    --player1-gloss: #c8e6c9;
+    --player1-color: #FFC0CB; /* pinck */
+    --player1-light: #FFC0CB;
+    --player1-gloss: #FFC0CB;
     --player2-color: #F44336; /* Red */
     --player2-light: #ef9a9a;
     --player2-gloss: #ffcdd2;
